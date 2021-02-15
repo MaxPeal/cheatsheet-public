@@ -2,11 +2,9 @@
 
 #### README
 
-This is probably the biggest cheatsheet for bash online.
+This is probably enough for start learn bash and Linux! :) 
 
-#### REQUIREMENTS
-
-
+This is _all_ commands from cmdlinefu.com, respect to everyone that shared their one-liners
 
 #### CONTACT 
 
